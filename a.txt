@@ -10,3 +10,4 @@ test checkout4
 test checkout5
 dev checkout6
 dev checkout7
+local add
