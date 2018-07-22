@@ -11,3 +11,5 @@ test checkout5
 dev checkout6
 dev checkout7
 local add
+remote add first
+remote add second
